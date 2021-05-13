@@ -111,6 +111,10 @@ aircraft_data = {
         max_capacity: 104,
         seat_arrangement: "2-2"
     },
+    "De Havilland DHC-8-400" => {
+        max_capacity: 78,
+        seat_arrangement: "2-2"
+    }
     "Embraer ERJ145" => {
         max_capacity: 54,
         seat_arrangement: "1-2"
