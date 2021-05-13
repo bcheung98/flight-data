@@ -35,12 +35,20 @@ aircraft_data = {
         max_capacity: 369,
         seat_arrangement: "3-3-3"
     },
+    "Boeing 717-200" => {
+        max_capacity: 110,
+        seat_arrangement: "2-3"
+    },
     "Boeing 737-700" => {
         max_capacity: 144,
         seat_arrangement: "3-3"
     },
-    "Boeing 737-8 MAX" => {
+    "Boeing 737 MAX 8" => {
         max_capacity: 174,
+        seat_arrangement: "3-3"
+    },
+    "Boeing 737 MAX 9" => {
+        max_capacity: 192,
         seat_arrangement: "3-3"
     },
     "Boeing 737-800" => {
@@ -75,35 +83,51 @@ aircraft_data = {
         max_capacity: 396,
         seat_arrangement: "3-3-3"
     },
-    "Bombardier CRJ-200" => {
+    "Boeing 787-8" => {
+        max_capacity: 333,
+        seat_arrangement: "3-3-3"
+    },
+    "Boeing 787-9" => {
+        max_capacity: 360,
+        seat_arrangement: "3-3-3"
+    },
+    "Boeing 787-10" => {
+        max_capacity: 405,
+        seat_arrangement: "3-3-3"
+    },
+    "Bombardier CRJ200" => {
         max_capacity: 48,
         seat_arrangement: "2-2"
     },
-    "Bombardier CRJ-700" => {
+    "Bombardier CRJ700" => {
         max_capacity: 72,
         seat_arrangement: "2-2"
     },
-    "Bombardier CRJ-900" => {
+    "Bombardier CRJ900" => {
         max_capacity: 80,
         seat_arrangement: "2-2"
     },
-    "Bombardier CRJ-1000" => {
+    "Bombardier CRJ1000" => {
         max_capacity: 104,
         seat_arrangement: "2-2"
     },
-    "Embraer 170" => {
+    "Embraer ERJ145" => {
+        max_capacity: 54,
+        seat_arrangement: "1-2"
+    },
+    "Embraer E170" => {
         max_capacity: 72,
         seat_arrangement: "2-2"
     },
-    "Embraer 175" => {
+    "Embraer E175" => {
         max_capacity: 80,
         seat_arrangement: "2-2"
     },
-    "Embraer 190" => {
+    "Embraer E190" => {
         max_capacity: 100,
         seat_arrangement: "2-2"
     },
-    "Embraer 195" => {
+    "Embraer E195" => {
         max_capacity: 116,
         seat_arrangement: "2-2"
     }
