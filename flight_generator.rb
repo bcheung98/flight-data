@@ -4878,7 +4878,7 @@ flights = [
         arrival_time: "3:31 PM PDT",
     },
     {
-        airline: "Alaska",
+        airline: "Alaska Airlines",
         flight_number: "1436",
         aircraft: "Airbus A321",
         origin: "SEA",
@@ -5598,7 +5598,7 @@ flights = [
         arrival_time: "2:12 PM PDT",
     },
     {
-        airline: "Alaska",
+        airline: "Alaska Airlines",
         flight_number: "1176",
         aircraft: "Boeing 737-900",
         origin: "SEA",
